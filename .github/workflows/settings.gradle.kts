@@ -1,15 +1,1 @@
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-dependencyResolutionManagement {
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
-rootProject.name = "KavitaAi"
-include(":app")
+settings.gradle.kts
